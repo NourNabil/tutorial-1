@@ -7,7 +7,8 @@ public class Tutorial
 		int y=4;
 		int z=7;
 		
-		z=x+y;
+		z=x*y;
+		
 	}
 	
 	
